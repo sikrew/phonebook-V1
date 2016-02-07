@@ -8,7 +8,7 @@
 
   Enter password: rootroot
 
-  mysql> GRANT ALL PRIVILEGES ON *.* TO 'phone'@'localhost' IDENTIFIED BY 'book' WITH GRANT OPTION;
+  mysql> GRANT ALL PRIVILEGES ON \*.\* TO 'phone'@'localhost' IDENTIFIED BY 'book' WITH GRANT OPTION;
 
   mysql> CREATE DATABASE phonedb;
 
