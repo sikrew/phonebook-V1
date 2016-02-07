@@ -14,7 +14,7 @@
 
   musql> \q
 
-  $ git clone https://github.com/tecnico-softeng/phonebook.git
+  $ git clone https://github.com/tecnico-softeng/phonebook-V1.git
 
   $ cd phonebook
 
