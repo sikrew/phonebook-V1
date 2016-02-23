@@ -1,6 +1,9 @@
 /target/
+.idea
 .classpath
 .settings
 .project
 .*.swp
+*.iml
+/web/
 /bin/
