@@ -16,4 +16,12 @@
       <contact name="SOS" phoneNumber="112" />
     </contacts>
   </person>
+  <person name="Faneca">
+    <contacts>
+      <contact name="Roberto" phoneNumber="222222222" />
+      <contact name="Teresa" phoneNumber="999999999" />
+      <contact name="IST LTI" phoneNumber="555555555" />
+      <contact name="SOS novo" phoneNumber="1120" />
+    </contacts>
+  </person>
 </phonebook>
